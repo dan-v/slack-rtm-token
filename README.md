@@ -1,3 +1,5 @@
+<b>This repository is no longer maintained.</b>
+
 `slack-rtm-token` allows you to generate a personal OAuth token for use with the Slack [RTM API](https://api.slack.com/rtm) now that [the creation of legacy tokens has been disabled](https://api.slack.com/changelog/2020-02-legacy-test-token-creation-to-retire). Please note that while this is still supported, it's not the recommended approach moving forward. Slack recommends moving to the Events API, but this requires hosting a public facing HTTP service to consume events which is not ideal for all situations.
 
 ## Overview
